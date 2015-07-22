@@ -20,3 +20,9 @@ Collard greens	Brassica oleracea
 Common purslane	Portulaca oleracea
 Corn salad	Valerianella locusta
 Cress	Lepidium sativum
+Dandelion	Taraxacum officinale
+Dill	Anethum graveolens
+Endive	Cichorium endivia
+Fat hen	Chenopodium album
+Fiddlehead	Pteridium aquilinum
+Athyrium esculentum
